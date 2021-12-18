@@ -1,0 +1,16 @@
+{
+    "Plugins": [
+        {
+            "Info": {
+                "Types": {
+                    "URIResolver" : {
+                        "bases": ["ArResolver"]
+                    }
+                }
+            },
+            "LibraryPath": "../libURIResolver.so",
+            "Name": "URIResolver",
+            "Type": "library"
+        }
+    ]
+}
