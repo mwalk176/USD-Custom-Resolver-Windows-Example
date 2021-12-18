@@ -1,0 +1,4 @@
+export USD_INSTALL_ROOT="C:/Program Files/Side Effects Software/Houdini 18.5.596/toolkit"
+export HOUDINI_ROOT="C:/Program Files/Side Effects Software/Houdini 18.5.596"
+export GLIBCXX_USE_CXX11_ABI=0
+export CXXFLAGS="-D_GLIBCXX_USE_CXX11_ABI=0"
