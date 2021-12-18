@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mwalk\Downloads\USD-Cookbook-custom_resolver_houdini\plugins\custom_resolver\project\build\CMakeFiles\f7de861577ca0386129d4310e5e66c59\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{07832298-7EB3-3FFC-AA2E-E9A8000277D9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

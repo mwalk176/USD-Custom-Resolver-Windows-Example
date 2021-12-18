@@ -1,0 +1,10 @@
+^C:\USERS\MWALK\DOWNLOADS\USD-COOKBOOK-CUSTOM_RESOLVER_HOUDINI\PLUGINS\CUSTOM_RESOLVER\PROJECT\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/mwalk/Downloads/USD-Cookbook-custom_resolver_houdini/plugins/custom_resolver/project -BC:/Users/mwalk/Downloads/USD-Cookbook-custom_resolver_houdini/plugins/custom_resolver/project/build --check-stamp-file C:/Users/mwalk/Downloads/USD-Cookbook-custom_resolver_houdini/plugins/custom_resolver/project/build/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

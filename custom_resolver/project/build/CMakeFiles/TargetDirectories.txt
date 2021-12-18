@@ -1,0 +1,5 @@
+C:/Users/mwalk/Downloads/USD-Cookbook-custom_resolver_houdini/plugins/custom_resolver/project/build/CMakeFiles/INSTALL.dir
+C:/Users/mwalk/Downloads/USD-Cookbook-custom_resolver_houdini/plugins/custom_resolver/project/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/mwalk/Downloads/USD-Cookbook-custom_resolver_houdini/plugins/custom_resolver/project/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/mwalk/Downloads/USD-Cookbook-custom_resolver_houdini/plugins/custom_resolver/project/build/src/CMakeFiles/URIResolver.dir
+C:/Users/mwalk/Downloads/USD-Cookbook-custom_resolver_houdini/plugins/custom_resolver/project/build/src/CMakeFiles/INSTALL.dir
